@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Transcribe Pro",
+  "description": "Professional audio and video transcription tool that generates formatted PDF and TXT files using Gemini 2.5 Flash\nIncludes prompt generator and editor",
+  "requestFramePermissions": []
+}
